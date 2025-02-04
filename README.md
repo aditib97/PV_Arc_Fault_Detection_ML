@@ -7,8 +7,8 @@ The repository contains the code for the Master Thesis titled 'Efficient Photovo
 The required packages to be installed are in requirements.txt file.
 
 ### Data
-Dataset for the project is provided at the following link:
-
+Dataset for the project is provided at following DOI: 
+10.5281/zenodo.14804124
 
 Please create a folder ./data and unzip the archive into that directory.
 
